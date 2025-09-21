@@ -37,7 +37,10 @@ install-build-backend:
 install-dev:
 	@uv pip install -r requirements-dev.txt --no-cache;
 
-install: install-build-backend install-dev
+install-factory:
+	@uv pip install -r requirements.txt --no-cache;
+
+install: install-build-backend install-dev install-factory
 
 pre-commit-activate:
 	@pre-commit install;

@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/thuyetbao/sci-factory.git" target="_blank">
-    <img src="https://img.shields.io/badge/project-space_0.1.1-darkgreen?logo=fantom" alt="Project Version">
+    <img src="https://img.shields.io/badge/project-space_0.2.9-darkgreen?logo=fantom" alt="Project Version">
   </a>
 </div>
 
