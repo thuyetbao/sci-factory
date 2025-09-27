@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/thuyetbao/sci-factory.git" target="_blank">
-    <img src="https://img.shields.io/badge/project-space_0.2.9-darkgreen?logo=fantom" alt="Project Version">
+    <img src="https://img.shields.io/badge/project-space_0.3.1-darkgreen?logo=fantom" alt="Project Version">
   </a>
 </div>
 
@@ -43,6 +43,12 @@
 </div>
 
 ---
+
+## **Assignment**
+
+| Index | Assignment         | Status | Finished at |
+| ----- | ------------------ | ------ | ----------- |
+| 1     | Vision Captcha OCR | Done   | 2025-09-27  |
 
 For more information about the project, see the [thuyetbao.github.io/space](https://thuyetbao.github.io/space) documentation.
 

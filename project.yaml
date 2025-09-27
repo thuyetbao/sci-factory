@@ -1,5 +1,5 @@
 id: &project_id "sci-factory"
 name: &project_name "Science Factory"
-version: "0.2.9"
-revision: "20250921"
+version: "0.3.1"
+revision: "20250927"
 description: "An internal initiative for exploring data science assignments and tasks"
